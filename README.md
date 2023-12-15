@@ -5,7 +5,7 @@ A simple logging package with 5 levels:
 * Info
 * Warning
 * Error
-* Fatal
+* Off - only Fatal messages are shown
 
 I wrote this to use in my personal projects with Go versions earlier than v1.21. For Go v1.21 and later, the [slog](https://go.dev/blog/slog) package does this and more.
 
